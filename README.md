@@ -31,4 +31,3 @@ Power BI · Tableau
 If you're into data, storytelling, or just exploring ideas—I'd love to connect.
 
 📫 [LinkedIn](https://www.linkedin.com/in/miguel-angel-hernandez-fernandez-2bb142224)  
-📬 Coming soon: Personal blog or portfolio page.

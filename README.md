@@ -58,9 +58,9 @@ _(Coming soon)_
 
 _(Coming soon)_
 
-## 📈 [Power BI](https://github.com/miguelhernandezf/Crashlytics---Motor-Vehicle-Collisions---Crashes-in-NYC)
+## 📈 Power BI
 
-_(Crashlytics New York project using Power BI – April 2025)_
+[Crashlytics New York project using Power BI – April 2025](https://github.com/miguelhernandezf/Crashlytics---Motor-Vehicle-Collisions---Crashes-in-NYC)
 
 ---
 

@@ -46,7 +46,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project                | Completion Date | Tools     | Description |
 |------------------------|------------------|-----------|-------------|
-| 🚨 **Crashlytics New York** | April 2025         | Power BI  | Downloaded a crash dataset from Kaggle, performed data cleaning and analysis, and built interactive Power BI dashboards to visualize trends. Delivered actionable recommendations based on insights such as peak crash hours, common causes, and high-risk locations. |
+| [🚨 Crashlytics New York](https://github.com/miguelhernandezf/Crashlytics---Motor-Vehicle-Collisions---Crashes-in-NYC) | April 2025         | Power BI  | Downloaded a crash dataset from Kaggle, performed data cleaning and analysis, and built interactive Power BI dashboards to visualize trends. Delivered actionable recommendations based on insights such as peak crash hours, common causes, and high-risk locations. |
 
 ---
 
